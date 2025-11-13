@@ -38,18 +38,6 @@ Aqui está um resumo mais detalhado das minhas competências:
 
 ---
 
-## 🏗️ Projetos em Destaque
-
-Aqui estão alguns projetos em que venho trabalhando (e que refletem minhas experiências):
-
-* **[Nome do Projeto - Cuber App]**: `[Link para o Repo]`
-    * Aplicação mobile de transporte (estilo Uber) desenvolvida com **React Native** para o frontend e **Node.js/Express** para o backend, com autenticação JWT e integração com **TypeORM**.
-* **[Nome do Projeto - E-commerce]**: `[Link para o Repo]`
-    * Plataforma de e-commerce (em andamento) construída com **Next.js**, focando em SSR para performance e SEO, e componentização com **React** e **Tailwind CSS**.
-* **[Nome do Projeto - Pleromah]**: `[Link para o Repo]`
-    * API de backend para [objetivo do projeto], construída com **Node.js, Express** e **TypeORM** para gerenciamento de dados complexos no **PostgreSQL**.
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
@@ -61,5 +49,5 @@ Aqui estão alguns projetos em que venho trabalhando (e que refletem minhas expe
 
 Estou sempre aberto a novas oportunidades e conexões. Sinta-se à vontade para entrar em contato:
 
-* **LinkedIn:** [https://linkedin.com/in/SEU-PERFIL-PERSONALIZADO](https://linkedin.com/in/lincoln-a-c-dominguez-3713ab304/)
+* **LinkedIn:** [https://linkedin.com/in/lincoln](https://linkedin.com/in/lincoln-a-c-dominguez-3713ab304/)
 * **E-mail:** [boldlincoln2@gmail.com](mailto:boldlincoln2@gmail.com)
