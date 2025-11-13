@@ -1,11 +1,6 @@
 # 👋 Olá, eu sou o Lincoln Carbonell!
 
-Sou um Desenvolvedor de Software apaixonado por construir soluções web e mobile completas com o ecossistema JavaScript/TypeScript. Atualmente, estou cursando Sistemas de Informação no **Instituto Federal de São Paulo (IFSP)**.
-
-Estou sempre focado em criar produtos digitais que sejam não apenas funcionais, mas também performáticos, escaláveis e com uma ótima experiência de usuário.
-
 ---
-
 ### 💼 Resumo Profissional
 
 Desenvolvedor de software focado na construção de aplicações web e mobile de ponta a ponta. Tenho experiência prática na criação de interfaces reativas com **React, Next.js e React Native**, e no desenvolvimento de APIs robustas com **Node.js (Express)** e **TypeORM**.
