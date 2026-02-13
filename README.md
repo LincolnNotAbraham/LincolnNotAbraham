@@ -31,8 +31,7 @@ Aqui está um resumo mais detalhado das minhas competências:
 
 * **Backend:** Node.js, Express.js, APIs RESTful, TypeORM, Autenticação (JWT)
 * **Frontend:** React, Next.js (SSR & SSG), Tailwind CSS
-* **Mobile:** React Native
-* **Bancos de Dados:** PostgreSQL, MongoDB
+* **Bancos de Dados:** PostgreSQL
 * **Linguagens Adicionais:** Python (com FastAPI), C++ (POO e Estrutura de Dados)
 * **Ferramentas e Versionamento:** Git, GitHub, Docker, Vercel
 
